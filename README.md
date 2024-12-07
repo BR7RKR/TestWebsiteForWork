@@ -6,8 +6,7 @@ delete after an experiment
 
 ## Local docs
 
-- [ProjectForVkDocs 1.0](https://br7rkr.github.io/TestWebsiteForWork/docs/1.0/readme.html)
-- [ProjectForVkDocs 2.0](https://br7rkr.github.io/TestWebsiteForWork/docs/2.0/readme.html)
+- [ProjectForVk](https://br7rkr.github.io/TestWebsiteForWork/ProjectForVk.md)
 
 ## Authors
 
